@@ -1,0 +1,158 @@
+es un metodo estucturado para la gestion efectiva de proyectos
+es un estandar utilizado por el gobierno del reino unido y ampliamente reconocido y utilizado por el sector privado
+
+este metodo es del dominio publico ofrece un dominio de buenas praticas en la gestion de proyectos
+
+
+Caracteristicas
+su enfoque es una justificacion de negocios
+una estructura de organizacion definica para el equipo de gestion de proyectos
+una planificacion basada en productos con enfacis en dividir el proyecto en fases manejables y controlables
+y flexibilidad para se aplicado a cualquier nivel del proyecto
+
+Estructura
+tematicas
+    planes
+    calidad
+    organizacion
+    Casos de negocios
+    progreso
+    cambio 
+    riesgo
+
+Principios
+    Justificación comercial continua
+        Se asegura de que hay un motivo justificable para iniciar el proyecto.
+    La justificación se mantiene válida durante toda la vida del proyecto.
+        Dicha justificación ha sido identificada, y aprobada.
+    Aprender de la experiencia
+        Se recogen las experiencias anteriores, las que se van obteniendo a lo largo de la ejecución del proyecto, así como las lecciones aprendidas al cierre del mismo.
+    Roles y Responsabilidades definidos
+        Asegurando que los intereses de los usuarios que van a usar el proyecto, los proveedores y el responsable del área de negocio están representados en la toma de decisiones.
+    Gestión por Fases
+        Un proyecto que sigue la metodología PRINCE2 se planifica, se supervisa y se controla fase a fase.
+    Gestión por excepción
+        Es decir, delegar la autoridad suficiente de un nivel de gestión al siguiente, dándole autonomía según unas tolerancias pautadas (de tiempo, coste, calidad, alcance, beneficio y/o riesgo) de manera que, de sobrepasar la tolerancia, se consulte al nivel superior como actuar.
+    Orientación a productos
+        Centra la atención en la definición y entrega de productos, es decir, un proyecto no son un conjunto de tareas a realizar, si no que entrega productos (que se elaboran tras la ejecución de las tareas que sean necesarias).
+    Adaptación
+        Asegurando que la metodología PRINCE2 y los controles a aplicar se basen en el tamaño, complejidad, importancia, capacidad y snivel de riesgo del proyecto.
+    
+    
+Niveles de gestion
+
+
+
+Procesos
+
+SU - Proceso preliminar (Starting up a project)
+IP - Inicio de proyecto (Initiating a project)
+DP - Direccion de proyecto (Directing a project)
+CS - Control de fase (Controlling a stage)
+MP - Gestion de entrega de productos (Managing product delivery)
+SB - Gestion de limite de fases (Managing stage boundaries)
+CP - Cierre de proyecto (Closing a project)
+PL - Planificacion (Planning)
+
+
+SU - este proceso es preproyecto, muy corto y cuyos obejtivos son:
++ Diseñar y asignar el equipo de gestion
++ asegurar que los objetivos son correctos
++ Desidir el planeamiento que servira de base para  proporcionar soluciones a lo largo del proyecto 
++ Definir las espectativas de calidad del cliente
+
+se llama preprooyecto debido a que el proyecto no ha comenzado, aca se comprueba si el proyecto es viable si tiene sentido para la organizacion
+Se aprobicionan aqui una serie de documentos que permitiran tomar una decision de considerar seriamente el inicio real de un proyecto
+este conjunto de documentos se llama resumen o expediente del proyecto que respondan a las preguntas
+
+porque lo vamos hacer
+que vamos a hacer
+como empezamos a concretar lo que tenemos que ir haciendo
+
+
+-- Tenemos un proyecto que vale la pena? --
+
+
+IP - tien la mision de proporcionar la informacion necesaria para desidir si el proyecto es suficientemente justificable para poder porceder con el
+
+el propocito es establecer bases solidas para el proyecto permitiendo a la organizacion comprender el trabajo que se debe realizar para entregar los productos de proyecto antes de comprometerse a un gasto considerable
+
+todas las partes deben tener claridad sobre aquello que el proyecto busca lograr, porque se necesita , como se ha de elavorar el resultado final y cuales son sus responsabilidades
+
+asi podremos enter si el proyecto esta o no lo suficientemente alineado con los objetivos corporativos
+
+sin una definicion firme la junta de proyecto estaria haciedo un salto al vacío
+
+se debe asegurar que haya compresion comun sobre las razones para realizar el proyecto, los beneficios esperados y los riesgos asociados, el alcance de lo que se debe hacer y los productos que se deben entregar.
+como y cuando se entregaran los productos de proyecto 
+quien particpara en la toma de decisiones del proyecto
+como se alcanzará la calidad requerida
+como se estableceran y controlaran las versiones baseline
+como se identificaran, evaluaran y controlaran los riesgos las cuestiones y los cambios
+como se supervisara y controlara el progreso
+quien necesita informacion en que formato y en que momento
+como se adapta el metodo de gestion corporativa del proyecto para adecuarse a este
+
+para todo esto se trabajaran los sigientes documentos
+    documentos estrategicos (riesgos, comunicacion, calidad, configuracion)
+    bussines case
+    plan de proyecto explica la division en fases
+    Descripciones de productos que explica lo que vamos a ir haciendo
+    los controles de proyecto que explican como se controla el mismo
+    los roles y responsabilidades definiendo la estructura del proyecto del equipo de gestion
+
+-- es donde la mayoria de las actividades de iniciacion de un proyecto se realizan -- si la junta de proyecto autoriza hay que ponerse manos a la obra
+
+
+#######################################################################################################################################
+DP - esta dirigido al equipo de gestion senior responsable del proyecto, es decir lo que toman decisiones claves, este equipo por lo general esta muy ocupado y se hará cargo solo de la toma de desiciones del proyecto
+
+iterativo por cada una de las primeras fases
+#######################################################################################################################################
+
+
+
+CS - describe el control y monitorizacion de actividades llevadas a cabo por el jefe de proyecto involucrado y de asegurar e una etapa sigue el proceso que gestiona el dia a dia de la actividad del proyecto
+
+en control de faces y entrega de productos es donde el director de proyecto hace la mayor parte de su trabajo DIARIO 
+realiza principalmente las sigientes actividades
+    dar a conocer el trabajo de los jefes de equipo
+    revisar continuamente el estado de la fase
+    presentar informes periodicos a la junta del proyecto
+    capturar y examinar problemas y riesgos y escalarlos si es necesario
+    tomar medidas correctivas para resolver los problemas dentro de las tolerancias establecidas
+
+
+MP - permite una interrupcion controlada entre el project manager y la creacion o aprovision de productos por terceras partes
+
+SB- los objetivos de este proceso son 
++ planificar la siguiente etapa
++ autorizar el plan de proyecto
++ autorizar la evaluacion y registro de riesgos
++ informar el rendimiento y productos terminados de la etapa que llega a su fin
++ obtener la aprobacion de la junta de proyecto para continuar con a sigiente etapa
+
+
+posteriormente y cerca del final de la fase se ejecutara el proyecto de limite de fase en el cual se gestiona y se crean informes  de como la face ha ido funcionando
+
+el objetivo de ese proceso es lograr que la junta directiva del proyecto reciba informacion suficiente por parte del project manager para que pueda revisar el desarrollo satisfactorio de la fase actual y poder proceder a autorizar la siguente fase
+
+cada fase por lo general se divide en periodos de 4/8 semanas dependiendo del proyecto
+
+
+CP - cubre el trabajo que tiene que realizar el jefe de proyecto para pedir permiso a la junta para cerrarlo tanto si es un fin natural o prematuro y desidido por la junta
+
+Se inicia cerca del final de la ultima fase, es donde el director del proyecto prepara el cierre del proyecto  
+la ultima cosa que el director del proyecto va a hacer es recomendar el cierre del proyecto a la junta del proyecto, por lo tanto no es el director el que cierra el proyecto, es la ultima decision de la junta del proyecto
+
+esto se conoce como   autorizar el cierre de l proyecto
+
+
+antes de tomar esta decision se deben ejecutar las sigientes actividades
+    revisar los documentos base desde el expediente del proyecto con los documentos actuales para ver como se ha comportado el proyecto en comparacion con los objetivos originales
+    asegurar que los productos han sido aceptados y firmados 
+    consultar el documento de lecciones aprendidas y entregarlos para que puedan se utilizados en proyectos futuros
+    revisar el plan de beneficios  y comaPara dichos beneficios con los obtenidos hasta el momento (solo si se esperan beneficios antes del cierre del proyecto) 
+
+PL - es un proceso repetible, utilizado por otros procesos cuando un plan es necesario hace uso de la tecnica de planificacion basada en productos de prince2
+
