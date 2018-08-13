@@ -1,3 +1,10 @@
+
+
+PRINCE2 es un método ampliamente reconocido, que proporciona un lenguaje común a todos los participantes en el proyecto. Incluye descripciones de los roles de gestión y las responsabilidades asignadas a los participantes en el proyecto, esto resulta beneficioso a la hora de adaptarlo a un proyecto determinado con un grado de complejidad y necesidad de habilidades de organización y conocimientos para llevar a cabo las distintas tareas del proyecto.
+
+PRINCE2 se deriva de un método anterior llamado PROMPTII y del método de gestión de proyectos PRINCE, cuya versión inicial se desarrolló en 1989 como encargo para el Gobierno del Reino Unido que deseaba contar con un estándar de gestión de proyectos para las tecnologías de la información. Dado que el uso de PRINCE se popularizó y empezó a aplicarse en otros ámbitos externos a las tecnologías de la información, se publicó PRINCE2 en 1996, como un método de gestión de proyectos estándar.
+La popularidad de este método se ha incrementado con los años y ahora es un estándar de facto para la gestión de proyectos en el Reino Unido, su uso se ha extendido también a muchos otros países del mundo.
+
 es un metodo estucturado para la gestion efectiva de proyectos
 es un estandar utilizado por el gobierno del reino unido y ampliamente reconocido y utilizado por el sector privado
 
