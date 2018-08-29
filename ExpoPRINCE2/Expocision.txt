@@ -27,6 +27,12 @@ tematicas
     cambio 
     riesgo
 
+el business case, es decir, el ¿por qué hacemos el Proyecto?, 
+es el desarrollo del Proyecto, es el eje central, es el que da respuesta al producto + 
+
+la organización, es decir, ¿quién va a xdesarrollarlo? + la calidad, ¿qué va a desarrollar + los planes ¿cuándo, cómo? + el riesgo, ¿qué pasa si sucede algo…? + el cambio, ¿qué tipo de impacto va a sufrir el proyecto con el cambio? + el progreso, es decir, el mirar, el evaluar, ¿dónde estamos, y que tenemos por delante? y, ¿a dónde vamos?
+
+
 Principios
     Justificación comercial continua
         Se asegura de que hay un motivo justificable para iniciar el proyecto.
@@ -47,8 +53,17 @@ Principios
     
     
 Niveles de gestion
+	Se define tres (4) niveles de gestión del proyecto: Nivel de Dirección (corresponde a lo que PRINCE2 llama la Junta de Proyecto, el máximo órgano de dirección del proyecto), nivel de gestión (correspondiente al trabajo del Project Manager) y nivel de entrega (correspondiente al trabajo del equipo, donde se realiza todo el trabajo técnico)
+
+ los roles principales para el equipo de dirección de proyectos son: la Junta de Proyecto que corresponde al Nivel de Dirección, el Project Manager que corresponde al Nivel de Gestión, y el/los Team Manager/s que corresponde/n al Nivel de Entrega.
+
+La Junta de Proyecto, en primer lugar, es responsable de las decisiones principales del proyecto. Esta Junta, según PRINCE2, estará formada por los siguientes roles:
+Ejecutivo Principal, representante del negocio, debe garantizar la financiación del proyecto y asegurar su justificación continua
+Usuario/s Principal/es, representante de los usuarios, responsable de definir los productos y validarlos
+Proveedor/es Principal/es, representante del proveedor, responsable de garantizar la calidad e integridad de los productos, proporcionando para el proyecto recursos con conocimientos y expertise necesario
 
 
+El siguiente rol principal en PRINCE2 es el de Project Manager que deberá gestionar adecuadamente el día a día del proyecto durante cada fase de gestión, por encargo de la Junta.
 
 Procesos
 
@@ -163,3 +178,34 @@ antes de tomar esta decision se deben ejecutar las sigientes actividades
 
 PL - es un proceso repetible, utilizado por otros procesos cuando un plan es necesario hace uso de la tecnica de planificacion basada en productos de prince2
 
+
+
+Ventajas
+1. Roles y responsabilidades claramente definidas
+PRINCE2 ofrece una descripción completa de todos los roles que deben participar en la dirección de proyectos, identificando sus funciones y responsabilidades. La gestión de la participación de los principales interesados del proyecto (define tres intereses principales en cada proyecto: el interés comercial o de negocio, el interés del usuario, y el interés del proveedor) está ya incluida dentro del método. Utilizando PRINCE2, todos los participantes en un proyecto tienen claro lo que se espera de ellos: el Project Manager no estará solo nunca más.
+
+ 
+
+2. Niveles de gestión y control en los proyectos
+PRINCE2 define los niveles de dirección y toma de decisiones necesarios para un proyecto: Gestión corporativa o de programa, (definen objetivos estratégicos y la necesidad de realizar proyectos para conseguirlos), nivel de dirección (toma las decisiones de mayor nivel del proyecto: go/no go), nivel de gestión (realiza la planificación y toma las decisiones operativas para cumplir con el plan) y nivel de entrega (realiza el trabajo técnico, y garantiza la calidad e integridad de los resultados).
+
+Además, PRINCE2 utiliza varios sistemas de control para garantizar que el proyecto cumple con los objetivos previstos. Entre ellos, la división del proyecto en fases de gestión (particiones secuenciales del proyecto), el reporting regular y periódico sobre el estado de proyecto, las evaluaciones a final de fase, el cierre estructurado. Pero quizás una de las características más particulares de PRINCE2 es el sistema de delegación (tolerancias) y escalado (escalado). El enfoque es que cada nivel de gestión delega a su nivel inferior la responsabilidad de llevar a cabo las funciones que le corresponden dentro de unos límites. Sobrepasados estos límites el control retorna al nivel superior para tomar la mejor decisión posible. PRINCE2 establece claramente cuáles son los canales de escalado. Con PRINCE2, el Project Manager solo toma aquellas decisiones que le corresponden y tiene el soporte de toda la organización.
+
+ 
+
+3. Foco en el negocio y en el encaje organizacional
+La pieza angular sobre la que se desarrolla un proyecto de PRINCE2 es el Business Case, donde se detallan tanto los beneficios previstos como los costes esperados. Un proyecto, en definitiva, es el medio mediante el cual las organizaciones consiguen realizar aquellos cambios necesarios para conseguir sus objetivos estratégicos. Y esa visión se mantiene siempre presente durante el transcurso de todo el proyecto asegurando que el proyecto es y se mantiene viable, deseable y alcanzable. El framework de PRINCE2 está pensado para ser una pieza más en el puzzle de la organización, fácilmente encajable con el resto de sistemas de gestión (Gestión de portafolio, gestión de programas). Utilizando PRINCE2, el Project Manager conoce lo que la organización espera del proyecto y puede actuar en consecuencia.
+
+ 
+
+4. Simplicidad y capacidad de adaptación
+PRINCE2 es un método simple: gira en torno a 7 principios, 7 temáticas y 7 procesos, además define los principales productos de gestión que se utilizan en los proyectos y también su contenido recomendado. Esta estructura está pensada para ser lo suficientemente simple y adaptable para poderse utilizar en todo tipo de proyectos.
+
+PRINCE2 tiene que ser adaptado: a las dimensiones del proyecto, a la propia terminología que utilizan las organizaciones, a las técnicas y herramientas que se utilizan, a los propios sistemas de governance existentes en la organización, incluso a las metodologías técnicas utilizadas (por ejemplo, PRINCE2 puede adaptarse a los métodos ágiles).
+
+PRINCE2 tiene que ser una ayuda para crear entornos de control en los proyectos, si al implantar PRINCE2 estamos generando mayor burocracia o retraso en las tomas de decisiones, si no se adapta de manera natural a las características del proyecto y la organización, entonces no es PRINCE2 sino PINO (Prince In Name Only). Con PRINCE2, el Project Manager dispone de un framework simple de dirección de proyectos adaptable a las características de cada proyecto.
+
+ 
+
+5. Mejora contínua
+PRINCE2 incluye en el método todo lo necesario para iniciar en la organización un proceso de mejora continua en la dirección de proyectos. La propia implantación de PRINCE2 es una buena herramienta de diagnóstico para evaluar la madurez en la dirección de proyectos, y aporta las herramientas necesarias para mejorar el proceso en próximos proyectos. AXELOS (como propietario de PRINCE2 y otros estándares) ofrece además el método de madurez Portfolio, Programme, and Project Management Maturity Model (P3M3) para permitir a las organizaciones evaluar sus procesos de dirección actuales e iniciar planes de mejora. Utilizando PRINCE2, por lo tanto, el Project Manager podrá dirigir cada vez mejor sus proyectos.
