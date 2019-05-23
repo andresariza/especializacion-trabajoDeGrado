@@ -4,65 +4,65 @@ Andres Ariza &lt;arizaandres@unbosque.edu.co&gt; Universidad El Bosque
 Consulta de estado de paz y salvo de un estudiante via SOAP 
 -->
 <definitions xmlns:tns="co.edu.uelbosque.peoplesoft.wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsd1="co.edu.uelbosque.peoplesoft.xsd" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns="http://schemas.xmlsoap.org/wsdl/" name="Consulta de estado de paz y salvo de un estudiante via SOAP" targetNamespace="co.edu.uelbosque.peoplesoft.wsdl">
- <!--  definition of datatypes  -->
-<types>
-<schema xmlns="http://www.w3.org/2000/10/XMLSchema" targetNamespace="co.edu.uelbosque.peoplesoft.xsd">
-<element name="idEstudiante">
-<complexType>
-<all>
-<element name="value" type="int"/>
-</all>
-</complexType>
-</element>
-<element name="codigoPeriodo">
-<complexType>
-<all>
-<element name="value" type="int"/>
-</all>
-</complexType>
-</element>
-<element name="respuesta">
-<complexType>
-<all>
-<element name="value" type="string"/>
-</all>
-</complexType>
-</element>
-</schema>
-</types>
- <!--  response messages  -->
-<message name="returns_respuesta">
-<part name="respuesta" type="xsd:respuesta"/>
-</message>
- <!--  request messages  -->
-<message name="getPazYSalvo">
-<part name="idEstudiante" type="xsd:idEstudiante"/>
-<part name="codigoPeriodo" type="xsd:codigoPeriodo"/>
-</message>
- <!--  server's services  -->
-<portType name="ConsultaPazYSalvo">
-<operation name="getPazYSalvo">
-<input message="tns:getPazYSalvo"/>
-<output message="tns:returns_respuesta"/>
-</operation>
-</portType>
- <!--  server encoding  -->
-<binding name="ConsultaPazYSalvo_webservices" type="tns:ConsultaPazYSalvo">
-<soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
-<operation name="getPazYSalvo">
-<soap:operation soapAction="urn:xmethods-delayed-quotes#getPazYSalvo"/>
-<input>
-<soap:body use="encoded" namespace="urn:xmethods-delayed-quotes" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
-</input>
-<output>
-<soap:body use="encoded" namespace="urn:xmethods-delayed-quotes" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
-</output>
-</operation>
-</binding>
- <!--  access to service provider  -->
-<service name="PeopleSoft (Mock)">
-<port name="PeopleSoft (Mock)_0" binding="ConsultaPazYSalvo_webservices">
-<soap:address location="http://localhost/peoplesoft/pazysalvo.php"/>
-</port>
-</service>
+    <!--  definition of datatypes  -->
+    <types>
+        <schema xmlns="http://www.w3.org/2000/10/XMLSchema" targetNamespace="co.edu.uelbosque.peoplesoft.xsd">
+            <element name="idEstudiante">
+                <complexType>
+                    <all>
+                        <element name="value" type="int"/>
+                    </all>
+                </complexType>
+            </element>
+            <element name="codigoPeriodo">
+                <complexType>
+                    <all>
+                        <element name="value" type="int"/>
+                    </all>
+                </complexType>
+            </element>
+            <element name="respuesta">
+                <complexType>
+                    <all>
+                        <element name="value" type="string"/>
+                    </all>
+                </complexType>
+            </element>
+        </schema>
+    </types>
+    <!--  response messages  -->
+    <message name="returns_respuesta">
+        <part name="respuesta" type="xsd:respuesta"/>
+    </message>
+    <!--  request messages  -->
+    <message name="getPazYSalvo">
+        <part name="idEstudiante" type="xsd:idEstudiante"/>
+        <part name="codigoPeriodo" type="xsd:codigoPeriodo"/>
+    </message>
+    <!--  server's services  -->
+    <portType name="ConsultaPazYSalvo">
+        <operation name="getPazYSalvo">
+            <input message="tns:getPazYSalvo"/>
+            <output message="tns:returns_respuesta"/>
+        </operation>
+    </portType>
+    <!--  server encoding  -->
+    <binding name="ConsultaPazYSalvo_webservices" type="tns:ConsultaPazYSalvo">
+        <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <operation name="getPazYSalvo">
+            <soap:operation soapAction="urn:xmethods-delayed-quotes#getPazYSalvo"/>
+            <input>
+                <soap:body use="encoded" namespace="urn:xmethods-delayed-quotes" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="urn:xmethods-delayed-quotes" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+            </output>
+        </operation>
+    </binding>
+    <!--  access to service provider  -->
+    <service name="PeopleSoft (Mock)">
+        <port name="PeopleSoft (Mock)_0" binding="ConsultaPazYSalvo_webservices">
+            <soap:address location="http://localhost/peoplesoft/pazysalvo.php"/>
+        </port>
+    </service>
 </definitions>
